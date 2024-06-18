@@ -1,0 +1,8 @@
+main: com.vytdev.TestPlugin
+name: TestPlugin
+version: '1.0'
+description: A test plugin
+load: POSTWORLD
+author: vytdev
+website: vytdev.github.io
+prefix: Testing
